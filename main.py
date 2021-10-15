@@ -15,5 +15,8 @@ def foo():
     print(name.size)
 
 
+print('hello taco')
+print('zmiennna')
+print('zmienna')
 
 foo()
