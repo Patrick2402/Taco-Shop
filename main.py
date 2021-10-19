@@ -46,7 +46,7 @@ def Goo():
                     boss.account_is_created = True
                 else:
                     if admin.Login(boss):
-                        admin_things()
+                        admin.admin_things()
 
         if not close_app():
             main_flag = False
